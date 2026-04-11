@@ -2,7 +2,7 @@
 
 A markdown-based second brain for researching `AI agents` with `Codex` and `Obsidian`.
 
-This repo is built around a simple idea:
+This repo is built around an idea:
 
 - `raw/` stores your source material
 - `wiki/` stores the structured knowledge base the agent maintains
